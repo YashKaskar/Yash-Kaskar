@@ -154,3 +154,51 @@ db.sessioms
 show yelp-camp.sessions
 show sessions
 db.sessions
+show dbs
+'hello'.toUpperCase()
+clear
+node index.js
+use movieApp
+db.movies.find()
+use MovieApps
+db.movies.find()
+use movieApps
+db.movies.find()
+dn.movies.find()
+db.movies.find()
+use shopApps()
+db.products.find()
+show dbs
+use shopApps()
+db.products.find()
+db.product.find()
+db.produts.find()
+use shopApps()
+db.product.find()
+show movieApps()
+use movieApps()
+db.movie.find()
+db.movies.find()
+show dbs
+cd shopApps()
+use shopApps()
+db.Movie.find()
+db.Movies.find()
+db.movies.find()
+db.movie.find()
+cd .. use movieApps()
+show dbs
+use movieApps()
+db.movies.find()
+db.movie.find()
+usemovieApp
+use movieApps
+db.movies.find()
+show dbs
+use shopApps
+db.products.find()
+show dbs
+\use shopApps
+show dbs
+use shopApps()
+show dbs
