@@ -1,0 +1,156 @@
+show dbs
+use traveling-camp
+db.campground.find()
+db.campgrounds.find()
+show dbs
+show dbs
+use google-world
+db.campgrounds.find()
+show dbs
+use google-world
+db.collections.find()
+show dbs
+use google-world
+db.campgrounds.find()
+it
+show dbs
+use google-world()
+db.collections.find()
+db.campgrounds.fnd()
+show dbs
+use google_camping
+db.campgrounds.find()
+new dbs
+use google-camping
+db.campgrounds.find()
+show dbs
+show dbs
+show dbs
+use admin()
+db.d.find()
+show dbs
+use google-world
+db.campgrounds.find()
+show dbs
+show new dbs
+new dbs
+show dbs
+use google-camping
+db.campgrounds.find()
+db.collections.find()
+show dbs
+use google-camp
+db.collections.find()
+db.collection.find()
+show dbs
+use google-camp
+ls
+use google-world
+db.collections.find()
+db.campgrounds.find()
+show dbs
+use google-camp
+db.campgrounds.find()
+use google-world
+db.campgrounds.find()
+show dns
+show dbs
+use google-camp
+db.campgrounds.find()
+show dbs
+use google-camp
+db.campgrounds.find()
+show dbs
+use google-camp
+db.campgrounds.find()
+show dbs
+show collections
+show dbs
+show relationshipDemo
+db.relationshipDemo
+db.relationshipDemo.find()
+show collections
+show dbs
+use relationshipDemo
+show collections
+db.products.find()
+db.user.find({username:'yash'})
+show dbs
+use google-camp
+show collections
+db.campgrounds.find
+show campgrounds
+show dbs
+use google-camp
+show collections
+db.campgrounds.find()
+it
+show dbs
+use yelp-camp
+show collections()
+show dbs
+use traveling-camp
+show collections
+show dbs
+use yelp-camp
+show collection
+use google-camp
+show collections
+google-world
+use google-world
+show collection
+show dbs
+use google-camp
+show collections
+db.campgrounds.find()
+db.users.find({username:'yash'})
+use google-camp
+show collections
+db.user.find({username:'yash'})
+show dbs
+use google-camp
+show collections
+use google-camp
+db.users.find({username:'yash'})
+use google-world
+db.collections
+show google-world.collections.find()
+use google-camp
+show collections
+db.user.find()
+db.campgrounds.find()
+db.users.find()
+show dbs
+use yelp-camp
+show collections
+db.users.find()
+db.users.find({username:'yash'})
+db.campgrounds.find()
+show dbs
+use yelp-camp
+show collections
+db.users.find()
+show dbs
+use yelp-camp
+show collections
+show campgrounds
+db.campgrounds
+$env:NODE_ENV="production"
+show dbs
+use yelp-camp
+show collections
+SHOW collections
+show collections
+show dbs
+use yelp-camp
+db.collections
+show collections
+mongod
+show dbs
+use yelp-camp
+db.collections
+show collections
+db.sessioms
+show yelp-camp.sessions
+show sessions
+db.sessions

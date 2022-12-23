@@ -1,0 +1,12 @@
+[core]
+	editor = \"C:\\Users\\Yash Kaskar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[user]
+	name = Yash Kaskar
+	email = yash.kaskar99@gmail.com
+[init]
+	defaultBranch = master
